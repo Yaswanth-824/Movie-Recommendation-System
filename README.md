@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 - **Para Yaswant Venkata Goivind Chakravarthi** - [GitHub](https://github.com/Yaswanth-824)
-  - Department of Computer Science, Indian Institute of Technology Dharwad
+  - Department of Computer Science, Indian Institute of Technology Varanasi(IIT BHU)
 
 
 
