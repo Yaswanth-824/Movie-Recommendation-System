@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- **Alluri Lakshman Narendra** - [GitHub](https://github.com/lakshmannarendra)
+- **Para Yaswant Venkata Goivind Chakravarthi** - [GitHub](https://github.com/Yaswanth-824)
   - Department of Computer Science, Indian Institute of Technology Dharwad
 
 
