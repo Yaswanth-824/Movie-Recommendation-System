@@ -1,0 +1,10 @@
+jupyter
+numpy
+pandas
+chardet
+nltk
+scikit-learn
+scipy
+rank-bm25
+sentence-transformers
+tensorflow
